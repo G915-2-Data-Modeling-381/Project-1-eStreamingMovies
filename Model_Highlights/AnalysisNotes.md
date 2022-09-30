@@ -2,7 +2,7 @@
 
 To be updated during 9.30.2022 meeting
 
-**Oliver** 
+### Oliver
 
 CDM:
 - Good descriptions
@@ -16,8 +16,9 @@ LDM:
 - Movie modifications astreamableVersion
 - Streaming service tables are very neat, idea for customer cards to have a maximum well done
 - Views retained for invoices and over-due notice
-- 
-**Adrian**
+
+
+### Adrian
 
 CDM:
 - Franchise (disney > marvel > .. etc), Inventory, License, Website, MovieStream (Customer account can stream in multiple places with one license per customer)
@@ -30,3 +31,16 @@ LDM:
 
 PDM:
 -  vision for schema ownership and attributes
+
+### Wade 
+
+CDM:
+- Movie store was removed, one to many connection to store instead to keep track of every instance
+
+PDM:
+- Payment table modifications, different subcategory
+- MovieRental
+
+### Jas
+
+
