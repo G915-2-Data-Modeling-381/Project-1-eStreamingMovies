@@ -2,12 +2,16 @@
 
 To be updated during 9.30.2022 meeting
 
+---
+
 ### Highlights
 - Have a subscription / license service for eStreamingMovies
 - Proper payment method allocation and seperation
 - Good organization of personal details, maybe add customer service
 - Data Masking and Schema creation, better UDT creation and possible constraint addition for SSMS
 - Normalization of attributes and tables carefully to maximize use
+
+---
 
 ### Oliver
 
@@ -24,6 +28,7 @@ LDM:
 - Streaming service tables are very neat, idea for customer cards to have a maximum well done
 - Views retained for invoices and over-due notice
 
+---
 
 ### Adrian
 
@@ -39,6 +44,8 @@ LDM:
 PDM:
 -  vision for schema ownership and attributes
 
+---
+
 ### Wade 
 
 CDM:
@@ -47,6 +54,8 @@ CDM:
 PDM:
 - Payment table modifications, different subcategory
 - MovieRental modifications
+
+---
 
 ### Jas
 
