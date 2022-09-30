@@ -2,6 +2,13 @@
 
 To be updated during 9.30.2022 meeting
 
+### Highlights
+- Have a subscription / license service for eStreamingMovies
+- Proper payment method allocation and seperation
+- Good organization of personal details, maybe add customer service
+- Data Masking and Schema creation, better UDT creation and possible constraint addition for SSMS
+- Normalization of attributes and tables carefully to maximize use
+
 ### Oliver
 
 CDM:
@@ -39,8 +46,18 @@ CDM:
 
 PDM:
 - Payment table modifications, different subcategory
-- MovieRental
+- MovieRental modifications
 
 ### Jas
+
+CDM:
+- Very nice person-address hierarchy
+- streaming service subscription layout, need to discuss licensing options and fine-tune in future
+- Electronic payments
+
+PDM:
+- CustomerStreamingServiceSubscription, Electronic Payment types (Bitcoin), Creditcard and GiftCard
+- Electronic Payment, eMovie transaction type was modified to be a bit smoother and organized. All the detail of the details are condenssed into different types of tables.
+- Person table, s.t you don't need Employee and Customer details to be in different areas. Used for employee, customer, star
 
 
